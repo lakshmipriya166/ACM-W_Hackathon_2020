@@ -1,4 +1,4 @@
-# ACM-W_Hackathon_2020
+# Technocrats
 
 ## Team Members:
 
